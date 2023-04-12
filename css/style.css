@@ -5,6 +5,7 @@
  * Copyright 2011-2022 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+@import url("https://fonts.googleapis.com/css2? family= Nerko+One & display=swap");
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -10718,6 +10719,40 @@ textarea.form-control-lg {
   .d-print-none {
     display: none !important;
   }
+}
+body {
+  font-family: "Nerko One" !important;
+}
+
+.Logo__Header {
+  width: 80px;
+  height: 80px;
+}
+
+.Header {
+  background-color: #557153;
+}
+
+.Footer {
+  background-color: #6aa565;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.Footer__2 {
+  background-color: #6aa565;
+  margin-bottom: 20px;
+  padding: 10px;
+}
+
+.Img__Footer {
+  width: 50px;
+  height: 50px;
+}
+
+.Logo__Footer {
+  width: 20px;
+  height: 20px;
 }
 
 /*# sourceMappingURL=style.css.map */
