@@ -5,6 +5,24 @@ body{font-family: 'Nerko One' !important}
 
 .Header{background-color:#557153;}
 .Footer{background-color: #6aa565; margin-top: 20px;  padding: 10px;}
-.Footer__2{background-color: #6aa565; margin-bottom: 20px; padding: 10px;}
+.Footer__2{background-color: #6aa565;padding: 10px;}
 .Img__Footer{width: 50px; height: 50px;}
 .Logo__Footer{width: 20px; height: 20px;}
+.Main__I{background-color: #7D8F69;}
+.FL{width: 150px; height: 150px;}
+.VID{width: 200px; height: 200px;}
+.QS{font-size: 50px; color: white;}
+.Tit__1{font-size: 80px; color: white;}
+.Tit__2{font-size: 35px; color: white;}
+.TX__I{width: 100%;}
+
+.TITULO{display: flex; flex-direction: column; justify-content: center; align-items: center};
+.TT__CD{font-size: 30px; display: flex; justify-content: center; align-items: center; }
+
+@media(max-width:768px){
+    .Tit__1{font-size: 50px;}
+    .Tit__2{font-size: 25px; color: white;} 
+    .FL{display: none;}
+    .Main__I--2{display: flex; flex-direction: column; justify-content: center; align-items: center;}
+    .QS{font-size: 40px;  color: aqua; display: flex; justify-content: center; align-items: center;}
+}
