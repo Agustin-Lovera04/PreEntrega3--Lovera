@@ -10783,6 +10783,10 @@ body {
   color: white;
 }
 
+.TX__I {
+  width: 100%;
+}
+
 .TITULO {
   display: flex;
   flex-direction: column;
