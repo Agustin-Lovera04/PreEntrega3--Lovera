@@ -30,6 +30,10 @@ body{font-family: 'Nerko One' !important}
 .TX__CAR{@include TX()}
 .H__CAR{font-size: 70px; color: white; display: flex; justify-content: center;}
 
+.Con__M{display: flex; flex-direction: row; justify-content: space-around; background-color: #7D8F69;}
+.H__Con{font-size: 50px; color: white; }
+.FL__Con{width: 200px; height: 200px;}
+
 @media(max-width:768px){
     .Tit__1{font-size: 50px;}
     .Tit__2{font-size: 25px; color: white;} 
@@ -38,5 +42,6 @@ body{font-family: 'Nerko One' !important}
     .QS{font-size: 40px;  color: aqua; display: flex; justify-content: center; align-items: center;}
     .Main__S{display: flex; flex-direction: column;justify-content: center; align-items: center;}
     .BT__S{display: flex; flex-direction: column; justify-content: center; align-items: center;}
+    .Con__M{display: flex; flex-direction: column; justify-content: center; align-items: center;}
 }
 
