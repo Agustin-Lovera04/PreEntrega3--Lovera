@@ -18,6 +18,10 @@ body{font-family: 'Nerko One' !important}
 
 .TITULO{display: flex; flex-direction: column; justify-content: center; align-items: center};
 .TT__CD{font-size: 30px; display: flex; justify-content: center; align-items: center; }
+.BT__S{display: flex; flex-direction: row; justify-content: space-around; align-items: center;}
+
+.Main__S{display: flex; flex-direction: row; justify-content: center; align-items: center;}
+.TX__I{font-size: 20px;}
 
 @media(max-width:768px){
     .Tit__1{font-size: 50px;}
@@ -25,6 +29,7 @@ body{font-family: 'Nerko One' !important}
     .FL{display: none;}
     .Main__I--2{display: flex; flex-direction: column; justify-content: center; align-items: center;}
     .QS{font-size: 40px;  color: aqua; display: flex; justify-content: center; align-items: center;}
+    .Main__S{display: flex; flex-direction: column;justify-content: center; align-items: center;}
+    .BT__S{display: flex; flex-direction: column; justify-content: center; align-items: center;}
 }
 
-.BT__S{display: flex; flex-direction: row; justify-content: space-around; align-items: center;}

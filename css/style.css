@@ -10801,6 +10801,24 @@ body {
   align-items: center;
 }
 
+.BT__S {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Main__S {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.TX__I {
+  font-size: 20px;
+}
+
 @media (max-width: 768px) {
   .Tit__1 {
     font-size: 50px;
@@ -10825,12 +10843,18 @@ body {
     justify-content: center;
     align-items: center;
   }
-}
-.BT__S {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
+  .Main__S {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .BT__S {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
