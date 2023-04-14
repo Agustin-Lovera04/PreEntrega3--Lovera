@@ -10826,5 +10826,11 @@ body {
     align-items: center;
   }
 }
+.BT__S {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
 
 /*# sourceMappingURL=style.css.map */
