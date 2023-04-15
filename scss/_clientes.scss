@@ -5,3 +5,19 @@ body{font-family: 'Nerko One' !important}
 .Cl__M{display: flex; flex-direction: row; justify-content: center; align-items: center;}
 .M__CL{background-color: #7D8F69;}
 .TX__CL{font-size: 20px; color: white}
+
+@media(max-width:768px){
+    .Tit__1{font-size: 50px;}
+    .Tit__2{font-size: 25px; color: white;} 
+    .FL{display: none;}
+    .Main__I--2{display: flex; flex-direction: column; justify-content: center; align-items: center;}
+    .QS{font-size: 40px;  color: aqua; display: flex; justify-content: center; align-items: center;}
+    .Main__S{display: flex; flex-direction: column;justify-content: center; align-items: center;}
+    .BT__S{display: flex; flex-direction: column; justify-content: center; align-items: center;}
+    .Con__M{display: flex; flex-direction: column; justify-content: center; align-items: center;}
+    .Cont{display: flex; flex-direction: column; justify-content: center; align-items: center;}
+    .M__CL{display: flex; flex-direction: column; justify-content: center; align-items: center;}
+    .Cl__M{display: flex; flex-direction: column; justify-content: center;}
+
+
+}
