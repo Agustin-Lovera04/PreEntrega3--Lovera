@@ -6,6 +6,13 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
 @import url("https://fonts.googleapis.com/css2? family= Nerko+One & display=swap");
+@import url("https://fonts.googleapis.com/css2? family= Nerko+One & display=swap");
+@import url("https://fonts.googleapis.com/css2? family= Nerko+One & display=swap");
+@import url("https://fonts.googleapis.com/css2? family= Nerko+One & display=swap");
+@import url("https://fonts.googleapis.com/css2? family= Nerko+One & display=swap");
+@import url("https://fonts.googleapis.com/css2? family= Nerko+One & display=swap");
+@import url("https://fonts.googleapis.com/css2? family= Nerko+One & display=swap");
+@import url("https://fonts.googleapis.com/css2? family= Nerko+One & display=swap");
 :root {
   --bs-blue: #0d6efd;
   --bs-indigo: #6610f2;
@@ -10724,165 +10731,6 @@ body {
   font-family: "Nerko One" !important;
 }
 
-.Logo__Header {
-  width: 80px;
-  height: 80px;
-}
-
-.Header {
-  background-color: #557153;
-}
-
-.Footer {
-  background-color: #6aa565;
-  margin-top: 20px;
-  padding: 10px;
-}
-
-.Footer__2 {
-  background-color: #6aa565;
-  padding: 10px;
-}
-
-.Img__Footer {
-  width: 50px;
-  height: 50px;
-}
-
-.Logo__Footer {
-  width: 20px;
-  height: 20px;
-}
-
-.Main__I {
-  background-color: #7D8F69;
-}
-
-.FL {
-  width: 150px;
-  height: 150px;
-}
-
-.VID {
-  width: 200px;
-  height: 200px;
-}
-
-.QS {
-  font-size: 50px;
-  color: white;
-}
-
-.Tit__1 {
-  font-size: 80px;
-  color: white;
-}
-
-.Tit__2 {
-  font-size: 35px;
-  color: white;
-}
-
-.TX__I {
-  width: 100%;
-}
-
-.TITULO {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-}
-
-.TT__CD {
-  font-size: 30px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.BT__S {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  align-items: center;
-}
-
-.Main__S {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-}
-
-.TX__I {
-  font-size: 20px;
-}
-
-.CSL {
-  width: 100%;
-  height: 600px;
-  object-fit: cover;
-}
-
-.CARRUSEL {
-  background-color: #7D8F69;
-}
-
-.TX__CAR {
-  display: flex;
-  justify-content: center;
-  font-size: 20px;
-  color: white;
-}
-
-.H__CAR {
-  font-size: 70px;
-  color: white;
-  display: flex;
-  justify-content: center;
-}
-
-.Con__M {
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  background-color: #7D8F69;
-}
-
-.H__Con {
-  font-size: 50px;
-  color: white;
-}
-
-.FL__Con {
-  width: 200px;
-  height: 200px;
-}
-
-.Cl__M {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
-}
-
-.M__CL {
-  background-color: #7D8F69;
-}
-
-.TX__CL {
-  font-size: 20px;
-  color: white;
-}
-
-.XP__Con {
-  display: flex;
-  justify-content: center;
-  font-size: 20px;
-  color: white;
-}
-
 @media (max-width: 768px) {
   .Tit__1 {
     font-size: 50px;
@@ -10942,6 +10790,192 @@ body {
     flex-direction: column;
     justify-content: center;
   }
+}
+body {
+  font-family: "Nerko One" !important;
+}
+
+.Logo__Header {
+  width: 80px;
+  height: 80px;
+}
+
+.Header {
+  background-color: #557153;
+}
+
+body {
+  font-family: "Nerko One" !important;
+}
+
+.Footer {
+  background-color: #6aa565;
+  margin-top: 20px;
+  padding: 10px;
+}
+
+.Footer__2 {
+  background-color: #6aa565;
+  padding: 10px;
+}
+
+.Img__Footer {
+  width: 50px;
+  height: 50px;
+}
+
+.Logo__Footer {
+  width: 20px;
+  height: 20px;
+}
+
+body {
+  font-family: "Nerko One" !important;
+}
+
+.Main__I {
+  background-color: #7D8F69;
+}
+
+.FL {
+  width: 150px;
+  height: 150px;
+}
+
+.VID {
+  width: 200px;
+  height: 200px;
+}
+
+.QS {
+  font-size: 50px;
+  color: white;
+}
+
+.Tit__1 {
+  font-size: 80px;
+  color: white;
+}
+
+.Tit__2 {
+  font-size: 35px;
+  color: white;
+}
+
+.TX__I {
+  width: 100%;
+}
+
+.TITULO {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.TT__CD {
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.TX__I {
+  font-size: 20px;
+}
+
+body {
+  font-family: "Nerko One" !important;
+}
+
+.BT__S {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.Main__S {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  font-family: "Nerko One" !important;
+}
+
+.CSL {
+  width: 100%;
+  height: 600px;
+  object-fit: cover;
+}
+
+.CARRUSEL {
+  background-color: #7D8F69;
+}
+
+.TX__CAR {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  color: white;
+}
+
+.H__CAR {
+  font-size: 70px;
+  color: white;
+  display: flex;
+  justify-content: center;
+}
+
+body {
+  font-family: "Nerko One" !important;
+}
+
+.Con__M {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  background-color: #7D8F69;
+}
+
+.H__Con {
+  font-size: 50px;
+  color: white;
+}
+
+.FL__Con {
+  width: 200px;
+  height: 200px;
+}
+
+.XP__Con {
+  display: flex;
+  justify-content: center;
+  font-size: 20px;
+  color: white;
+}
+
+body {
+  font-family: "Nerko One" !important;
+}
+
+.Cl__M {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+.M__CL {
+  background-color: #7D8F69;
+}
+
+.TX__CL {
+  font-size: 20px;
+  color: white;
 }
 
 /*# sourceMappingURL=style.css.map */
